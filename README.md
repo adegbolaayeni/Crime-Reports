@@ -349,8 +349,8 @@ Build Power BI dashboard for real-time monitoring by stakeholders.
 
 - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 💼 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email: ayeniadegbolaelijah@gmail.com
+- 🐙 GitHub: [@yourusername](https://github.com/adegbolaayeni)
 
 ---
 
@@ -362,7 +362,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Project framework provided by [Course/Bootcamp Name]
+- Project framework provided by [School of Data/AltSchool Africa]
 - Database design inspired by real-world law enforcement systems
 - Special thanks to instructors and peers for feedback and collaboration
 
@@ -372,8 +372,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Found a bug? Have a suggestion? Want to collaborate?
 
-- **Open an Issue**: [GitHub Issues](https://github.com/yourusername/vehicle-crime-analytics/issues)
-- **Start a Discussion**: [GitHub Discussions](https://github.com/yourusername/vehicle-crime-analytics/discussions)
+- **Open an Issue**: [GitHub Issues](https://github.com/adegbolaayeni/vehicle-crime-analytics/issues)
+- **Start a Discussion**: [GitHub Discussions](https://github.com/adegbolaayeni/vehicle-crime-analytics/discussions)
 - **Connect**: Let's discuss data analytics on [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
@@ -382,7 +382,7 @@ Found a bug? Have a suggestion? Want to collaborate?
 
 **⭐ If you found this project helpful, please consider giving it a star! ⭐**
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/vehicle-crime-analytics?style=social)](https://github.com/yourusername/vehicle-crime-analytics)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/vehicle-crime-analytics?style=social)](https://github.com/yourusername/vehicle-crime-analytics/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/adegbolaayeni/vehicle-crime-analytics?style=social)](https://github.com/adegbolaayeni/vehicle-crime-analytics)
+[![GitHub Forks](https://img.shields.io/github/forks/adegbolaayeni/vehicle-crime-analytics?style=social)](https://github.com/adegbolaayeni/vehicle-crime-analytics/fork)
 
 </div>
