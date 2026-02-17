@@ -3,7 +3,6 @@
 [![SQL](https://img.shields.io/badge/SQL-SQLite-blue)](https://www.sqlite.org/)
 [![Python](https://img.shields.io/badge/Python-3.10+-green)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **End-to-end SQL data investigation simulating a junior data analyst role for the Nigerian Police Force**
 
@@ -335,28 +334,22 @@ Calculate theft rates per 1000 vehicles by make/model, controlling for market sh
 Logistic regression to identify factors predicting successful vehicle recovery (Found status).
 
 ### 4. Geospatial Enhancement
-Integrate latitude/longitude for road distance calculations and heat map visualizations.
+Integrate latitude/longitude coordinates for road-distance calculations and heat-map visualizations.
 
 ### 5. Dashboard Development
-Build Power BI dashboard for real-time monitoring by stakeholders.
+Build a Power BI dashboard for real-time monitoring by stakeholders.
 
 ---
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**Adegbola Ayeni**  
 *Economic Research & Data Analyst*
 
 - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 💼 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 - 📧 Email: ayeniadegbolaelijah@gmail.com
-- 🐙 GitHub: [@yourusername](https://github.com/adegbolaayeni)
+- 🐙 GitHub: [@adegbolaayeni](https://github.com/adegbolaayeni)
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
