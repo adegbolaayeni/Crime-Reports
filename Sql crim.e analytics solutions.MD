@@ -520,41 +520,6 @@ I would prioritize **Analysis #3 (Investigation Effectiveness)** because it dire
 
 ---
 
-## Portfolio Documentation Tips
-
-### For LinkedIn/GitHub Presentation
-
-**Compelling Headline:**
-"SQL Analysis Reveals Organized Vehicle Theft Patterns: Data-Driven Approach to Crime Prevention"
-
-**Key Takeaways to Highlight:**
-1. Identified 39 repeat victims representing 50+ potential preventable future incidents
-2. Developed 3-tiered geographic enforcement strategy based on crime sophistication patterns  
-3. Demonstrated advanced SQL: window functions, CTEs, complex multi-table joins, self-joins
-4. Balanced technical rigor with non-technical stakeholder communication
-
-**Technical Skills Demonstrated:**
-- SQL: INNER JOIN, LEFT JOIN, GROUP BY, HAVING, window functions (ROW_NUMBER, PARTITION BY), CTEs, subqueries
-- Data Analysis: Aggregation, ranking, pattern recognition, geographic analysis
-- Business Intelligence: Operational metrics (workload distribution, status tracking, repeat victim identification)
-- Stakeholder Communication: Clear explanations connecting technical queries to real-world impact
-
-### Interview Talking Points
-
-**When asked "Tell me about this project":**
-"I analyzed a vehicle crime database for the Nigerian Police Force, simulating a junior analyst role. I wrote SQL queries to identify patterns like repeat victims and geographic hotspots. My key insight was that 39 individuals experienced multiple thefts, suggesting we could prevent 50+ future incidents through targeted intervention rather than broad campaigns. I also developed a three-tiered geographic strategy distinguishing organized crime zones from opportunistic areas, allowing better resource allocation. The project demonstrated my ability to translate raw data into actionable recommendations while maintaining ethical awareness about bias in geographic enforcement."
-
-**Technical Deep-Dive Preparation:**
-- Be ready to explain your use of window functions (Question 9, 10) and why you chose them over alternatives
-- Discuss the self-join in Question 6 and how you'd optimize it at scale
-- Explain the difference between WHERE and HAVING and when each applies
-- Demonstrate understanding of join types and when to use INNER vs LEFT joins
-
-**What I'd Improve with More Time:**
-"I'd add a geospatial analysis component using latitude/longitude to calculate actual road distances rather than relying on the distance_from_owner_km field. I'd also implement a time-series forecast to predict future incident rates per zone and help with proactive resource planning. Finally, I'd build a simple dashboard in Power BI to visualize these patterns for non-technical stakeholders, making the insights more immediately actionable."
-
----
-
 ## Conclusion
 
 This portfolio project demonstrates core data analyst competencies: writing accurate SQL queries, explaining technical work to non-technical audiences, reasoning about data limitations, and providing actionable recommendations. The analysis reveals that vehicle crime in the CMR database shows both opportunistic and organized patterns, with significant opportunities for targeted prevention programs focused on repeat victims and high-risk geographic zones.
@@ -568,6 +533,3 @@ The work showcases SQL proficiency across fundamental techniques (joins, aggrega
 ✅ Stakeholder communication and business impact framing  
 ✅ Ethical data interpretation and bias awareness  
 ✅ Forward-thinking scalability considerations  
-
-**Portfolio Readiness: Complete**
-This project is ready for GitHub publication, LinkedIn sharing, and discussion in technical interviews.
