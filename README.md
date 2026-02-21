@@ -177,7 +177,7 @@ SQLite3
 ### Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/vehicle-crime-analytics.git
+git clone https://github.com/adegbolaayeni/vehicle-crime-analytics.git
 cd vehicle-crime-analytics
 
 # Install dependencies
